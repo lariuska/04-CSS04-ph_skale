@@ -1,0 +1,46 @@
+* .container {
+    background-color: #a09e9a;
+    padding: 20px;
+}
+
+h1 {
+    background-color: #c7c7c7;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #55534a;
+    padding: 20px;
+    margin: 0px 0px 20px 0px;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    color: #eeeded;
+    padding: 5px 10px;
+    margin: 0;
+}
+
+.sarmas {
+    background: linear-gradient(to bottom,
+            #004ab3 0% 14%,
+            #1764c0 14% 28%,
+            #3080cd 28% 42%,
+            #4597d8 42% 57%,
+            #5aaee3 57% 72%,
+            #75ccf1 72% 86%,
+            #8ae3fc 86% 100%);
+}
+
+.neutro {
+    background-color: #00cc88;
+}
+
+.rugstis {
+    background: linear-gradient(to bottom,
+            #fdb9d7 0% 14%,
+            #f69cc6 14% 28%,
+            #ee7ab2 28% 42%,
+            #e75ba1 42% 57%,
+            #df3b8e 57% 72%,
+            #d81d7d 72% 86%,
+            #be0565 86% 100%);
+}
